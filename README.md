@@ -1,2 +1,2 @@
 # algoritmosB
-Contém códigos da disciplina algoritmos B
+## Contém códigos da disciplina algoritmos B
