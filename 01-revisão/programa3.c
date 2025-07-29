@@ -14,6 +14,3 @@
 
         return 1;
     }
-
-
-//sgeufn para acc's e se cadastrar
