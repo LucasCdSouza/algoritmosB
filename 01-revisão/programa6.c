@@ -9,28 +9,28 @@ int main(){
     scanf("%d", &y);
     
     if (x > 0 && y > 0) {
-        prinft("Ponto no Primeiro Quadrante\n");
+        printf("Ponto no Primeiro Quadrante\n");
     }
     if (x < 0 && y > 0) {
-        prinft("Ponto no Segundo Quadrante\n");
+        printf("Ponto no Segundo Quadrante\n");
     }
     if (x < 0 && y < 0) {
-        prinft("Ponto no Terceiro Quadrante\n");
+        printf("Ponto no Terceiro Quadrante\n");
     }
     if (x > 0 && y < 0) {
-        prinft("Ponto no Quarto Quadrante\n");
+        printf("Ponto no Quarto Quadrante\n");
     }
     if (x == 0 && y > 0) {
-        prinft("Ponto de Origem em x e y positivo\n");
+        printf("Ponto de Origem em x e y positivo\n");
     }
     if (x == 0 && y < 0) {
-        prinft("Ponto de Origem em x e y negativo\n");
+        printf("Ponto de Origem em x e y negativo\n");
     }
     if (x > 0 && y == 0) {
-        prinft("Ponto de origem em y e x positivo\n");
+        printf("Ponto de origem em y e x positivo\n");
     }
     if (x < 0 && y == 0) {
-        prinft("Ponto de origem em y e x negativo\n");
+        printf("Ponto de origem em y e x negativo\n");
     }
     return 1;
 }
