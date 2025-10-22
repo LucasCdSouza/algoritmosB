@@ -1,12 +1,12 @@
 /*
-    *******************************************************************************
-    *                          DESAFIO: GESTÃO DE GARAGEM                         *    
-    *******************************************************************************
-    * Descricao:                                                                  *
-    * Esse desafio tem como principal objrtivo gerenciar o fluxo de veiculosem uma*
-    * garagem. Ele permite listar veiculos estacionados, cadastrar novas placas,  *
-    * registrar saidas e verificar o status das vagas.                            *
-    *******************************************************************************
+    ********************************************************************************
+    *                          DESAFIO: GESTÃO DE GARAGEM                          *    
+    ********************************************************************************
+    * Descricao:                                                                   *
+    * Esse desafio tem como principal objrtivo gerenciar o fluxo de veiculos em uma*
+    * garagem. Ele permite listar veiculos estacionados, cadastrar novas placas,   *
+    * registrar saidas e verificar o status das vagas.                             *
+    ********************************************************************************
 */
 #include <iostream>
 #include <string>
